@@ -65,8 +65,8 @@ END
 
 
 #### Manual Calculations
+![WhatsApp Image 2025-09-08 at 12 03 53_481273f0](https://github.com/user-attachments/assets/55599486-9565-49e3-aff8-68b25f8d6f81)
 
-(Add your calculation here)
 
 ---
 
